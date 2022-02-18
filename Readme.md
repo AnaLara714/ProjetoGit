@@ -1,8 +1,10 @@
 - Olá! :)
 
-Git e GitHub são conteúdos fundamentais para um/a Dev, por tanto estou buscando me aprofundar e entender bem esse assunto. 
+Saber sobre Git e GitHub é fundamental para um/a Dev, portanto, estou buscando me aprofundar e entender bem sobre essa ferramenta e plataforma. 
 
-E esse projeto me auxiliou no aprendizado sobre Git e GitHub, coloquei em prática os conteúdos passados no vídeo da Rafaella Ballerine, que ela explica de maneira incrível! (https://www.youtube.com/watch?v=UBAX-13g8OM&list=TLPQMTgwMjIwMjJ9L6L5KJVxMw&index=2)
+Sendo assim, resolvi ver dois vídeos da Rafaella Ballerini, no primeiro vídeo é ensinado os principais conceitos de Git e GiHub, e já no segundo é mostrado na prática como funcionam os conceitos e comandos, sem falar que ela explica tudo de uma maneira ótima! 
+
+Depois, decidi eu mesma colocar em prática nesse projeto todo o conteúdo que ela ensina, também resolvi deixar aqui os comandos que são citados no vídeo. 
 
 
 Comandos básicos vistos:
@@ -14,3 +16,9 @@ Comandos básicos vistos:
     git branch -M "nome que vc quer na branch": esse comando possibilita mudar o nome da branch que vc está;
     git remote add origin https:/linkdorepositorio: com esse comando é possível conectar o seu repositório local com o seu repositório do GitHub 
     git push -U origin nomedabranch: dá um "empurão" no seu repositório local para ele subir para o GitHub
+
+
+Link dos vídeos: 
+https://www.youtube.com/watch?v=DqTITcMq68k&list=TLPQMTgwMjIwMjJ9L6L5KJVxMw&index=1 
+
+https://www.youtube.com/watch?v=UBAX-13g8OM&list=TLPQMTgwMjIwMjJ9L6L5KJVxMw&index=2
