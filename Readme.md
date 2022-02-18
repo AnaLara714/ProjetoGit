@@ -15,7 +15,7 @@ Comandos básicos vistos:
     git commit -m "mensagem/titulo do seu commit": envia o arquivo para o repositório, coloca o arquivo "em cena";
     git branch -M "nome que vc quer na branch": esse comando possibilita mudar o nome da branch que vc está;
     git remote add origin https:/linkdorepositorio: com esse comando é possível conectar o seu repositório local com o seu repositório do GitHub 
-    git push -U origin nomedabranch: dá um "empurão" no seu repositório local para ele subir para o GitHub
+    git push -u origin nomedabranch: dá um "empurão" no seu repositório local para ele subir para o GitHub
 
 
 Link dos vídeos: 
