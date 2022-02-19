@@ -17,6 +17,8 @@ Comandos básicos vistos:
     git remote add origin https:/linkdorepositorio: com esse comando é possível conectar o seu repositório local com o seu repositório do GitHub 
     git push -u origin nomedabranch: dá um "empurão" no seu repositório local para ele subir para o GitHub
     git checkout -b "nova-branch": cria uma branch, ou seja, "uma ramificação" na branch principal, e com 'checkout' já sai da branch master e vai para a "nova-branch"
+    git checkout 'nomedabranch': troca de branch
+    git merge 'outra-branch': o merge une as branchs criadas
 
 
 Link dos vídeos: 
