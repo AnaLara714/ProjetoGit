@@ -16,6 +16,7 @@ Comandos básicos vistos:
     git branch -M "nome que vc quer na branch": esse comando possibilita mudar o nome da branch que vc está;
     git remote add origin https:/linkdorepositorio: com esse comando é possível conectar o seu repositório local com o seu repositório do GitHub 
     git push -u origin nomedabranch: dá um "empurão" no seu repositório local para ele subir para o GitHub
+    git checkout -b "nova-branch": cria uma branch, ou seja, "uma ramificação" na branch principal, e com 'checkout' já sai da branch master e vai para a "nova-branch"
 
 
 Link dos vídeos: 
