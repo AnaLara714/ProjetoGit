@@ -4,7 +4,7 @@ Saber sobre Git e GitHub é fundamental para um/a Dev, portanto, estou buscando 
 
 Sendo assim, resolvi ver dois vídeos da Rafaella Ballerini, no primeiro vídeo é ensinado os principais conceitos de Git e GiHub, e já no segundo é mostrado na prática como funcionam os conceitos e comandos, sem falar que ela explica tudo de uma maneira ótima! 
 
-Depois, decidi eu mesma colocar em prática nesse projeto todo o conteúdo que ela ensina, também resolvi deixar aqui os comandos que são citados no vídeo. 
+Depois, decidi realmente colocar em prática nesse projeto todo o conteúdo que ela ensina, também resolvi deixar aqui os comandos que são citados no vídeo. 
 
 
 Comandos básicos vistos:
