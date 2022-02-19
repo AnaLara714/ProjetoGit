@@ -19,9 +19,16 @@ Comandos básicos vistos:
     git checkout -b "nova-branch": cria uma branch, ou seja, "uma ramificação" na branch principal, e com 'checkout' já sai da branch master e vai para a "nova-branch"
     git checkout 'nomedabranch': troca de branch
     git merge 'outra-branch': o merge une as branchs criadas
-
+    git clone http:/linkdorepositorio: Faz um cópia do repositório que vc clonar
+    git pull: puxa as alterações feitas no repositorio que esta no github para o seu repositorio local
+    
+    
+*Fork: Cópia e o repositório de um usuário e joga pro seu perfil, faz um clone e vira seu repositório tbm, caso vc faça mudanças neste clone, o repositorio principal nãoserá afetado.
+*Pull Request: Com o pull request vc envia um pedido de pull ao dono/a do repositorio original para que ele/a faça/aceite as alterações que vc fez no repositório dela/a
 
 Link dos vídeos: 
 https://www.youtube.com/watch?v=DqTITcMq68k&list=TLPQMTgwMjIwMjJ9L6L5KJVxMw&index=1 
 
 https://www.youtube.com/watch?v=UBAX-13g8OM&list=TLPQMTgwMjIwMjJ9L6L5KJVxMw&index=2
+
+*não são comandos, mas são ferramentas bem interessantes
